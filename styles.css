@@ -4,14 +4,14 @@ body{
 }
 
 head{
-    padding-bottom: 10%;
-    padding-top: 10%;  
+    padding-bottom: 30%;
+    padding-top: 30%;  
 }
 
 section{
     background: green;
-    padding-bottom: 10%;
-    padding-top: 10%;
+    padding-bottom: 30%;
+    padding-top: 30%;
     display: flex;
     justify-content: center;
 }
