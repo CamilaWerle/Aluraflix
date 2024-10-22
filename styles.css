@@ -3,6 +3,11 @@ body{
     background-color: purple;
 }
 
+head{
+    padding-bottom: 10%;
+    padding-top: 10%;  
+}
+
 section{
     background: green;
     padding-bottom: 10%;
