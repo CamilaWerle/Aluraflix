@@ -28,6 +28,7 @@ img{
 
 .sessão-videos{
     display: grid;
+    background-color: purple;
 }
 
 .categoria-videos{
