@@ -26,6 +26,10 @@ img{
     height: 200px;
 }
 
+.sessão-videos{
+    display: grid;
+}
+
 .categoria-videos{
     display: flex;
     overflow-x: auto;
