@@ -11,6 +11,14 @@ header{
     font-size: 30px;  
 }
 
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
 section{
     background: green;
     padding-bottom: 8%;
