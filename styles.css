@@ -23,12 +23,12 @@ p{
 }
 
 section{
-    border-top:solid 2px white;
     background: green;
     padding-bottom: 8%;
     padding-top: 8%;
     display: flex;
     justify-content: center;
+    border-top:solid 2px white;
 }
 
 .chamada-texto {
@@ -37,6 +37,11 @@ section{
 
 .video-principal{
     border: solid 2px white;
+}
+
+.pdf{
+    width: 50%;
+    height: 50%;
 }
 
 img{
