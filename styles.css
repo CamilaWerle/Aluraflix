@@ -39,13 +39,20 @@ section{
     border: solid 2px white;
 }
 
-.pdf object {
+.pdf-container {
+    display: flex;
+    justify-content: center; /* Centraliza o PDF horizontalmente */
+    align-items: center; /* Centraliza verticalmente (opcional) */
     width: 100%; /* Ajusta para ocupar toda a largura disponível */
-    height: 600px; /* Define uma altura específica */
-    max-width: 800px; /* Define o tamanho máximo para a largura */
-    margin: 0 auto; /* Centraliza horizontalmente */
-    border: 1px solid white; /* Opcional: adiciona uma borda para melhor visualização */
+    height: 100vh; /* Usa toda a altura da tela, ajuste conforme necessário */
 }
+
+.pdf {
+    width: 80%; /* Define 80% da largura do container */
+    height: 90%; /* Define 90% da altura do container */
+    border: 2px solid #000; /* Borda opcional */
+}
+
 
 img{
     height: 200px;
