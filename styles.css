@@ -57,7 +57,7 @@ section{
 .pdf {
     width: 80%; /* Define 80% da largura do container */
     height: 90%; /* Define 90% da altura do container */
-    border: 2px solid #000; /* Borda opcional */
+    border: 2px solid #ffffff; /* Borda opcional */
 }
 
 
