@@ -44,7 +44,7 @@ section{
     height: 600px; /* Define uma altura específica */
     max-width: 800px; /* Define o tamanho máximo para a largura */
     margin: 0 auto; /* Centraliza horizontalmente */
-    border: 1px solid #ccc; /* Opcional: adiciona uma borda para melhor visualização */
+    border: 1px solid white; /* Opcional: adiciona uma borda para melhor visualização */
 }
 
 img{
